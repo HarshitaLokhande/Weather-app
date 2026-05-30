@@ -2,13 +2,9 @@
 
 A modern and responsive weather application built using HTML, CSS, and JavaScript. The app allows users to search for any city and view real-time weather information including temperature, humidity, wind speed, and current weather conditions.
 
----
-
 ## 🌐 Live Demo
 
-[Click Here to Open Project](PASTE_YOUR_GITHUB_PAGES_LINK_HERE)
-
----
+https://harshitalokhande.github.io/Weather-app/
 
 ## 🚀 Features
 
@@ -41,7 +37,6 @@ A modern and responsive weather application built using HTML, CSS, and JavaScrip
 * Mobile-friendly interface
 * Clean and modern UI
 
----
 
 ## 💡 Tech Stack
 
@@ -50,7 +45,6 @@ A modern and responsive weather application built using HTML, CSS, and JavaScrip
 * JavaScript (ES6)
 * OpenWeatherMap API
 
----
 
 ## 🧠 What I Learned
 
@@ -62,46 +56,6 @@ A modern and responsive weather application built using HTML, CSS, and JavaScrip
 * Building responsive user interfaces with CSS
 * Integrating third-party APIs into web applications
 
----
-
-## 📂 Project Structure
-
-```text
-Weather-App/
-│
-├── index.html
-├── project1.css
-├── search.png
-├── clear.png
-├── clouds.png
-├── rain.png
-├── drizzle.png
-├── mist.png
-├── humidity.png
-├── wind.png
-└── README.md
-```
-
----
-
-## 📸 Preview
-
-Add a screenshot of your application here.
-
-```text
-assets/weather-app-preview.png
-```
-
----
-
-## 🚀 How to Run Locally
-
-1. Clone or download this repository
-2. Open the project folder
-3. Open `index.html` in your browser
-4. Enter a city name and search for weather information
-
----
 
 ## 🔮 Future Improvements
 
@@ -112,13 +66,11 @@ assets/weather-app-preview.png
 * Search history
 * Temperature unit conversion (°C / °F)
 
----
 
 ## 👩‍💻 Author
 
-Made with ❤️ by **Harshita Lokhande**
+Made by **Harshita Lokhande**
 
----
 
 ## ⭐ Support
 
